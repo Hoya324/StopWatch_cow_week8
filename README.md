@@ -14,26 +14,16 @@ cow 8주차 정기활동 - stopwatch 만들기
 - [ ] 밀리초까지 정확한 타이머 구현하기: setInterval() 함수와 new Date() 객체를 이용하여 밀리초까지 정확한 타이머 구현하기
 
 ### 초기 화면
-
-<img width="915" alt="스크린샷 2023-05-07 오후 12 38 08" src="https://user-images.githubusercontent.com/96857599/236656366-01b909ff-bf62-409f-9bca-4939f93353ae.png">
+<img width="847" alt="스크린샷 2023-05-08 오후 2 15 41" src="https://user-images.githubusercontent.com/96857599/236739851-204aaf01-405a-4c10-a616-1565fc030052.png">
 
 ### 시작
-
-<img width="915" alt="스크린샷 2023-05-07 오후 12 38 13" src="https://user-images.githubusercontent.com/96857599/236656368-d2c98e5f-2e9c-4f4c-81cb-40f845d025a3.png">
-
-
-### 기록
-
-<img width="915" alt="스크린샷 2023-05-07 오후 12 38 19" src="https://user-images.githubusercontent.com/96857599/236656374-10c324b1-08b8-4508-9399-25afd244e56c.png">
+<img width="847" alt="스크린샷 2023-05-08 오후 2 15 49" src="https://user-images.githubusercontent.com/96857599/236739876-671af1eb-0bbe-4d7c-87b1-e141389c241e.png">
 
 ### 중단
+<img width="847" alt="스크린샷 2023-05-08 오후 2 15 55" src="https://user-images.githubusercontent.com/96857599/236740075-12b84843-afb0-4d92-a33b-7c86fe9f0e71.png">
 
-<img width="915" alt="스크린샷 2023-05-07 오후 12 38 22" src="https://user-images.githubusercontent.com/96857599/236656377-5cfd3804-615f-4b1c-8737-c429eb5fc38d.png">
-
-### 재실행
-
-<img width="915" alt="스크린샷 2023-05-07 오후 12 38 26" src="https://user-images.githubusercontent.com/96857599/236656383-b4ea2cf1-2020-48a6-911a-669d1bd08d4a.png">
+### 재시작 및 기록
+<img width="847" alt="스크린샷 2023-05-08 오후 2 16 02" src="https://user-images.githubusercontent.com/96857599/236739892-104f0c7b-4bb1-431c-8c9f-e374f2834a79.png">
 
 ### 리셋
-
 <img width="915" alt="스크린샷 2023-05-07 오후 12 38 34" src="https://user-images.githubusercontent.com/96857599/236656398-7e414d8e-a10d-4bbf-9945-46634e3dd1b4.png">
