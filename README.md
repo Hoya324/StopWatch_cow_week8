@@ -26,4 +26,4 @@ cow 8주차 정기활동 - stopwatch 만들기
 <img width="847" alt="스크린샷 2023-05-08 오후 2 16 02" src="https://user-images.githubusercontent.com/96857599/236739892-104f0c7b-4bb1-431c-8c9f-e374f2834a79.png">
 
 ### 리셋
-<img width="915" alt="스크린샷 2023-05-07 오후 12 38 34" src="https://user-images.githubusercontent.com/96857599/236656398-7e414d8e-a10d-4bbf-9945-46634e3dd1b4.png">
+<img width="847" alt="스크린샷 2023-05-08 오후 2 16 11" src="https://user-images.githubusercontent.com/96857599/236740339-e2c210f3-05b7-4431-850b-7313078dda46.png">
