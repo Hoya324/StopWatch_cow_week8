@@ -1,9 +1,8 @@
 * {
-    background-color: black;
     color: aliceblue;
 }
 
-.container{
+.container {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -12,10 +11,18 @@
     line-height: 24px;
 }
 
+header {
+    border: solid 1px;
+    border-color: aliceblue;
+    border-radius: 10px;
+    background-color: black;
+}
+
 .timeStamp {
     display: flex;
     width: 300px;
     height: 300px;
+    margin: 2px;
     justify-content: center;
     align-items: center;
     font-size: 60px;
@@ -30,6 +37,7 @@
 
 .control {
     display: flex;
+    margin: 2px;
     justify-content: space-between;
     align-items: center;
     font-size: 20px;
